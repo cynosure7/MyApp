@@ -1,0 +1,17 @@
+﻿ [
+    {
+      "code": "A",
+      "description": "Product Type A",
+      "isActive": true
+    },
+  {
+    "code": "B",
+    "description": "Product Type B",
+    "isActive": false
+  },
+  {
+    "code": "C",
+    "description": "Product Type C",
+    "isActive": true
+  }
+]
